@@ -1,4 +1,4 @@
-1. List out the features of HTML5. 
+Q1 ]  1. List out the features of HTML5. 
 Ans: Some of the main features of HTML5 are as follows - 
 Improved Multimedia support - HTML5 allows for the integration of multimedia elements such as audio and  video directly into web pages without the need for plugins like Flash. 
 Canvas element - HTML5 introduced the <canvas> element, which allows for dynamic, interactive graphics to  be created and manipulated within a web page. 
@@ -7,7 +7,9 @@ Local Storage - HTML5 introduced the localStorage API, which allows for the stor
 New Structural Elements -  HTML5 introduced new semantic elements such as <header>, <footer>, <nav>, and  <article> that makes it easier to structure and organize content on a web page. 
 Form Improvements - HTML5 introduced several improvements to forms, including new input types like date,  time, and color, as well as new attributes such as required and autofocus. 
 Accessibility improvements - HTML5 provides better support for accessibility, including the ability to provide  alternative text for images and improved support for screen readers. 
-2. What are HTML Entities? List out 5 commonly used HTML entities. 
+
+Q2 ]
+What are HTML Entities? List out 5 commonly used HTML entities. 
 HTML Entities: 
 HTML entities are special codes that represent reserved characters, symbols, or characters with specific  meanings in HTML. They are used to display characters that might otherwise be interpreted as HTML code or  cause rendering issues in web browsers. HTML entities are written using an ampersand (&) followed by a  specific code or name, and ending with a semicolon (;). 
 5 Commonly Used HTML Entities: 
@@ -23,7 +25,7 @@ Example: <p>The title of the book is "The Great Gatsby".</p>
 Example: <p>&copy; 2023 ACME Corporation. All rights reserved.</p> 
 
 
-3? Define accessibility in the context of web development? Discuss why it's essential to create accessible  websites and how it benefits different user groups 
+Q3 ]   Define accessibility in the context of web development? Discuss why it's essential to create accessible  websites and how it benefits different user groups 
 Accessibility in Web Development: Accessibility in web development refers to designing and coding websites  in a way that ensures people with disabilities can perceive, understand, navigate, and interact with digital  content effectively. It involves making web content inclusive and usable for everyone, regardless of their  abilities. 
 Importance of Accessible Websites: 
 Inclusivity: Accessible websites ensure that everyone, including people with disabilities, can access and use  online information and services. 
@@ -36,7 +38,9 @@ Hearing Impairments: Captions and transcripts benefit those with hearing impairm
 Motor Disabilities: Keyboard navigation and easy-to-click elements assist users with motor limitations. 
 Cognitive Disabilities: Accessible design simplifies content and layout, aiding individuals with cognitive  challenges. 
 Elderly Users: Accessible websites accommodate age-related limitations, ensuring usability for elderly users. Mobile Users: Accessible design improves mobile experiences through simplified and responsive layouts/ 
-'> 0ist any 3 ways which help us in improving the accessibility of HTML 
+
+ 
+ Q4 ]  list any 3 ways which help us in improving the accessibility of HTML 
 Use Semantic HTM0 Elements: Using semantic HTML elements helps improve accessibility by providing  meaningful structure to your content. Semantic elements like <header>, <nav>, <main>, <article>, and <footer>  convey the purpose of different sections to assistive technologies, making it easier for users with disabilities to  navigate and understand the content. 
 
 Provide Alt Text for Images: Adding descriptive alt text to images using the alt attribute ensures that users who  cannot see the images can understand their content and purpose. Screen readers read aloud the alt text,  making visual content accessible to people with visual impairments. Aim to make alt text concise, informative,  and relevant to the image. 
